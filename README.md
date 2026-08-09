@@ -7,4 +7,4 @@ CS + Math @ Arizona State University, based in Arizona.
 
 Fun fact: 
 
-[Website](你個網址) · [LinkedIn](你個 LinkedIn)
+[Website](你個網址) · [[LinkedIn](https://www.linkedin.com/in/thomasyht/)]
