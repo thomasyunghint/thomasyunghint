@@ -2,9 +2,11 @@
 
 CS + Math @ Arizona State University, based in Arizona.
 
-**Currently building:** 
-**Previously:** 
+**Currently building:** a Sharpe-optimised portfolio allocation system in Python
 
-Fun fact: 
+**Previously:** options data pipelines and execution systems at a quant desk
 
-[Website](你個網址) · [[LinkedIn](https://www.linkedin.com/in/thomasyht/)]
+Fun fact: top 0.56% (#76 of 13,614) in IMC Prosperity 3
+
+
+[[LinkedIn](https://www.linkedin.com/in/thomasyht/)]
