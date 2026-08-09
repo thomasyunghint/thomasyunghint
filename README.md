@@ -1,12 +1,7 @@
-### Hi, I'm Thomas
+# hi, i'm thomas
 
-CS + Math @ Arizona State University, based in Arizona.
-
-**Currently building:** a Sharpe-optimised portfolio allocation system in Python
-
-**Previously:** options data pipelines and execution systems at a quant desk
-
-Fun fact: top 0.56% (#76 of 13,614) in IMC Prosperity 3
-
-
-[[LinkedIn](https://www.linkedin.com/in/thomasyht/)]
+- studying cs & math at arizona state 🌵
+- building trading systems & data pipelines in python 📈
+- prev swe intern @ meriti, research @ hkust ifr and asu ML lab🔬
+- looking for swe internships, summer 2027 💼
+- reach out @ yunghint [at] asu [dot] edu or links on my profile 👋
