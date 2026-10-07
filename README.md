@@ -1,7 +1,7 @@
 # hi, i'm thomas
 
 - studying cs & math at arizona state 🌵
--  quant research analyst @ asu student investment fund 📊
+-  quant research analyst @ asu student investment fund ($3.4 million, investment strategy approval by fund director) 📊
 - prev swe intern @ meriti, research @ hkust ifr and asu machine learning lab🔬
 - looking for swe/ quant internships, summer 2027 💼
 - reach out @ yunghint [at] asu [dot] edu or links on my profile 👋
