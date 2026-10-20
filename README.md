@@ -5,4 +5,4 @@
 - prev swe intern @ meriti, research @ machine learning lab🔬
 - reach out @ yunghint.asu.edu 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=thomasyunghint&label=Profile%20views&color=0e75b6&style=flat)
+   ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=thomasyunghint.thomasyunghint)
